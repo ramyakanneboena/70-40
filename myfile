@@ -2,3 +2,6 @@ create tabble students(
 id int,
 name varchar(20),
 sal int)
+
+2nd line from mumbai
+
